@@ -42,7 +42,7 @@ Variables should be capitalized, with underscore as word separator (e.g. PROCESS
 
 ## Pull Requests
 We welcome any contribution to improve felcon. Contributions to the felcon project can
-be submitted as a pull request. The upstream project can be found in our [GitHub repository](https://github.com/CISOfy/felcon).
+be submitted as a pull request. The upstream project can be found in our [GitHub repository].
 
 By submitting a [Pull Request](https://help.github.com/articles/using-pull-requests/)
 to this repository, you agree that you:
@@ -57,7 +57,7 @@ to this repository, you agree that you:
 
 4. Allow the project the [Unlimited Rights](#Unlimited-Rights) to your contribution
 
-If you have questions regarding development, send us an e-mail at [felcon-dev](mailto:felcon-dev@cisofy.com).
+If you have questions regarding development, send us an e-mail at [felcon-dev].
 
 
 ## Unlimited Rights
@@ -69,5 +69,5 @@ and for any purpose whatsoever, and to have or authorize others to do so.
 
 If you want to be named in as a contributor in the CONTRIBUTOR file, then include
 this notation in your pull request. Preferred format: Full Name, and your e-mail
-address).
+address.
 

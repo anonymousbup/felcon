@@ -1,13 +1,8 @@
 
 
-[![Linux Security Expert badge](https://badges.linuxsecurity.expert/tools/ranking/felcon.svg)](https://linuxsecurity.expert/tools/felcon/)
-[![Build Status](https://travis-ci.org/CISOfy/felcon.svg?branch=master)](https://travis-ci.org/CISOfy/felcon)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/96/badge)](https://bestpractices.coreinfrastructure.org/projects/96)
-[Documentation]
 
-[Documentation]: https://cisofy.com/documentation/felcon/
 
-Do you like this software? **Star the project** and become a [stargazer](https://github.com/CISOfy/felcon/stargazers).
+Do you like this software? **Star the project** and become a [stargazer]
 
 ----
 
@@ -48,10 +43,10 @@ There are multiple options available to install felcon.
 
 ### Software package
 
-For systems running Linux, BSD, and macOS, there is typically a package available. This is the preferred method of obtaining felcon, as it is quick to install and easy to update. The felcon project itself also provides [packages](https://packages.cisofy.com/) in RPM or DEB format suitable for systems systems running:
+For systems running Linux, BSD, and macOS, there is typically a package available. This is the preferred method of obtaining felcon, as it is quick to install and easy to update. The felcon project itself also provides [packages] in RPM or DEB format suitable for systems systems running:
 `CentOS`, `Debian`, `Fedora`, `OEL`, `openSUSE`, `RHEL`, `Ubuntu`, and others.
 
-Some distributions may also have felcon in their software repository: [![Repology](https://repology.org/badge/tiny-repos/felcon.svg)](https://repology.org/project/felcon/versions)
+Some distributions may also have felcon in their software repository: 
 
 Note: Some distributions don't provide an up-to-date version. In that case it is better to use the CISOfy software repository, download the tarball from the website, or download the latest GitHub release.
 
@@ -61,7 +56,7 @@ The very latest developments can be obtained via git.
 
 1. Clone or download the project files (**no compilation nor installation** is required) ;
 
-        git clone https://github.com/CISOfy/felcon
+        git clone https://github.com/anonymousbup/felcon
 
 2. Execute:
 
@@ -72,11 +67,11 @@ If you want to run the software as `root` (or sudo), we suggest changing the own
 
 ## Documentation
 
-Have a look at the [felcon documentation](https://cisofy.com/documentation/felcon/) to learn more about the configuration and usage of felcon. When you are interested in reading more articles about Linux security, then check out the [Linux security blog](https://linux-audit.com/) named Linux Audit. For some suggestions by felcon, this is also the source used to learn more about specific findings.
+Have a look at the [felcon documentation] to learn more about the configuration and usage of felcon. When you are interested in reading more articles about Linux security, then check out the [Linux security blog](https://linux-audit.com/) named Linux Audit. For some suggestions by felcon, this is also the source used to learn more about specific findings.
 
 ## Customization
 
-If you want to create your own tests, have a look at the [felcon software development kit](https://github.com/CISOfy/felcon-sdk).
+If you want to create your own tests, have a look at the [felcon software development kit]
 
 ## Security
 
@@ -105,9 +100,9 @@ felcon is collecting some awards along the way and we are proud of that.
 
 > We love contributors.
 
-Do you have something to share? Want to help out with translating felcon into your own language? Create an issue or pull request on GitHub, or send us an e-mail: felcon-dev@cisofy.com.
+Do you have something to share? Want to help out with translating felcon into your own language? Create an issue or pull request on GitHub, or send us an e-mail:
 
-More details can be found in the [Contributors Guide](https://github.com/CISOfy/felcon/blob/master/CONTRIBUTING.md).
+More details can be found in the [Contributors Guide]
 
 You can also simply contribute to the project by _starring_ the project and show your appreciation that way.
 

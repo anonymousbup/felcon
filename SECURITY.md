@@ -12,7 +12,7 @@
 
 To report a vulnerability, use security@cisofy.com
 
-See our [security page](https://cisofy.com/security/) for more details.
+See our [security page] for more details.
 
 ## Preferred language
 
@@ -20,8 +20,8 @@ English
 
 ## Acknowledgments
 
-https://cisofy.com/security/#thanks
+
 
 ## Other
 
-See the latest 'security.txt' at https://cisofy.com/.well-known/security.txt
+See the latest 'security.txt' at

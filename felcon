@@ -5,10 +5,10 @@
 #   felcon
 # ------------------
 #
-# Copyright Michael Boelen, CISOfy
+# Copyright Ahnaf Hasan, Felcon
 #
-# Web site : https://cisofy.com/
-# Blog     : https://linux-audit.com/ 
+# Web site : 
+# Blog     :  
 #
 # felcon comes with ABSOLUTELY NO WARRANTY. This is free software, and you are
 # welcome to redistribute it under the terms of the GNU General Public License.
@@ -39,8 +39,8 @@
     # Program information
     PROGRAM_NAME="felcon"
     PROGRAM_AUTHOR="CISOfy"
-    PROGRAM_AUTHOR_CONTACT="felcon-dev@cisofy.com"
-    PROGRAM_WEBSITE="https://cisofy.com/felcon/"
+    PROGRAM_AUTHOR_CONTACT=""
+    PROGRAM_WEBSITE=""
 
     # Version details
     PROGRAM_RELEASE_DATE="2025-07-29"
@@ -1180,4 +1180,4 @@ ${NORMAL}
 
 #
 #================================================================================
-# felcon - Copyright 2007-2021, Michael Boelen, CISOfy - https://cisofy.com
+# felcon - Copyright 2025-2025, Ahnaf  Hasan, Felcon - https://github.com/ahnaf-hasan

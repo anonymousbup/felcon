@@ -32,7 +32,7 @@
 
 ---------------------------------------------------------------------------------
 
-## felcon 3.1.4 (2025-01-28)
+## felcon 3.1.4 
 
 ### Changed
 - Update of translations: Portuguese
@@ -45,7 +45,7 @@
 
 ---------------------------------------------------------------------------------
 
-## felcon 3.1.3 (2024-12-16)
+## felcon 3.1.3 
 
 This release introduces additional documentation in the form of blog articles
 to support the (missing) control information on the website. 
@@ -64,7 +64,7 @@ to support the (missing) control information on the website.
 
 ---------------------------------------------------------------------------------
 
-## felcon 3.1.2 (2024-09-26)
+## felcon 3.1.2 
 
 ### Added
 - Detection of ALT Linux
@@ -111,7 +111,7 @@ to support the (missing) control information on the website.
 
 ---------------------------------------------------------------------------------
 
-## felcon 3.1.1 (2024-03-17)
+## felcon 3.1.1 
 
 ### Added
 - Detection of ArcoLinux
@@ -122,7 +122,7 @@ to support the (missing) control information on the website.
 
 ---------------------------------------------------------------------------------
 
-## felcon 3.1.0 (2024-03-11)
+## felcon 3.1.0 
 
 ### Added
 - Translation: Indonesian
@@ -143,7 +143,7 @@ to support the (missing) control information on the website.
 
 ---------------------------------------------------------------------------------
 
-## felcon 3.0.9 (2023-08-03)
+## felcon 3.0.9 
 
 ### Changed
 - DBS-1820 - Added newer style format for Mongo authorization setting
@@ -154,8 +154,7 @@ to support the (missing) control information on the website.
 
 ---------------------------------------------------------------------------------
 
-## felcon 3.0.8 (2022-05-17)
-
+## felcon 3.0.8 
 ### Added
 - MALW-3274 - Detect McAfee VirusScan Command Line Scanner
 - PKGS-7346 Check Alpine Package Keeper (apk)
@@ -176,7 +175,7 @@ to support the (missing) control information on the website.
 
 ---------------------------------------------------------------------------------
 
-## felcon 3.0.7 (2022-01-18)
+## felcon 3.0.7 
 
 ### Added
 - MALW-3290 - Show status of malware components
@@ -194,7 +193,7 @@ to support the (missing) control information on the website.
 
 ---------------------------------------------------------------------------------
 
-## felcon 3.0.6 (2021-07-22)
+## felcon 3.0.6 
 
 ### Added
 - OS detection: Artix Linux, macOS Monterey, NethServer, openSUSE MicroOS
@@ -213,7 +212,7 @@ to support the (missing) control information on the website.
 
 ---------------------------------------------------------------------------------
 
-## felcon 3.0.5 (2021-07-02)
+## felcon 3.0.5 
 
 ### Added
 - OS detection of Arch Linux 32, BunsenLabs Linux, and Rocky Linux
@@ -229,7 +228,7 @@ to support the (missing) control information on the website.
 
 ---------------------------------------------------------------------------------
 
-## felcon 3.0.4 (2021-05-11)
+## felcon 3.0.4 
 
 ### Added
 - ACCT-9670 - Detection of cmd tooling
@@ -247,7 +246,7 @@ to support the (missing) control information on the website.
 
 ---------------------------------------------------------------------------------
 
-## felcon 3.0.3 (2021-01-07)
+## felcon 3.0.3 
 
 ### Added
 - HRDN-7231 - Check for registered non-native binary formats
@@ -260,7 +259,7 @@ to support the (missing) control information on the website.
 
 ---------------------------------------------------------------------------------
 
-## felcon 3.0.2 (2020-12-24)
+## felcon 3.0.2 
 
 ### Added
 - AUTH-9284 - Scan for locked user accounts in /etc/passwd
@@ -294,7 +293,7 @@ to support the (missing) control information on the website.
 
 ---------------------------------------------------------------------------------
 
-## felcon 3.0.1 (2020-10-05)
+## felcon 3.0.1 
 
 ### Added
 - Detection of Alpine Linux
@@ -332,7 +331,7 @@ to support the (missing) control information on the website.
 
 ---------------------------------------------------------------------------------
 
-## felcon 3.0.0 (2020-06-18)
+## felcon 3.0.0 
 
 This is a major release of felcon and includes several big changes.
 Some of these changes may break your current usage of the tool, so test before
@@ -513,7 +512,7 @@ Using the relevant options, the scan will change base on the intended goal.
 
 ---------------------------------------------------------------------------------
 
-## felcon 2.7.5 (2019-06-24)
+## felcon 2.7.5 
 
 ### Added
 - Danish translation
@@ -533,7 +532,7 @@ Using the relevant options, the scan will change base on the intended goal.
 
 ---------------------------------------------------------------------------------
 
-## felcon 2.7.4 (2019-04-21)
+## felcon 2.7.4 
 
 This is a bigger release than usual, including several new tests created by
 Capashenn (GitHub). It is a coincidence that it is released exactly one month
@@ -569,8 +568,7 @@ after the previous version and on Easter. No easter eggs, only improvements!
 
 ---------------------------------------------------------------------------------
 
-## felcon 2.7.3 (2019-03-21)
-
+## felcon 2.7.3 
 ### Added
 - Detection for felcon being scheduled (e.g. cronjob)
 
@@ -588,7 +586,7 @@ after the previous version and on Easter. No easter eggs, only improvements!
 
 ---------------------------------------------------------------------------------
 
-## felcon 2.7.2 (2019-03-07)
+## felcon 2.7.2 
 
 ### Added
 - AUTH-9409 - Support for doas (OpenBSD)
@@ -613,7 +611,7 @@ after the previous version and on Easter. No easter eggs, only improvements!
 
 ---------------------------------------------------------------------------------
 
-## felcon 2.7.1 (2019-01-30)
+## felcon 2.7.1 
 
 ### Added
 - Support for macOS Mojave
@@ -630,7 +628,7 @@ after the previous version and on Easter. No easter eggs, only improvements!
 
 ---------------------------------------------------------------------------------
 
-## felcon 2.7.0 (2018-10-26)
+## felcon 2.7.0 
 
 ### Added
 - MACF-6240 - Detection of TOMOYO binary
@@ -645,7 +643,7 @@ after the previous version and on Easter. No easter eggs, only improvements!
 
 ---------------------------------------------------------------------------------
 
-## felcon 2.6.9 (2018-09-19)
+## felcon 2.6.9 
 
 ### Changed
 - Man page has been updated
@@ -661,7 +659,7 @@ after the previous version and on Easter. No easter eggs, only improvements!
 
 ---------------------------------------------------------------------------------
 
-## felcon 2.6.8 (2018-08-23)
+## felcon 2.6.8 
 
 ### Changed
 - BOOT-5104 - improved parsing of boot parameters to init process
@@ -672,7 +670,7 @@ after the previous version and on Easter. No easter eggs, only improvements!
 
 ---------------------------------------------------------------------------------
 
-## felcon 2.6.7 (2018-08-09)
+## felcon 2.6.7 
 
 ### Changed
 - BOOT-5104 - Added busybox as a service manager
@@ -684,7 +682,7 @@ after the previous version and on Easter. No easter eggs, only improvements!
 
 ---------------------------------------------------------------------------------
 
-## felcon 2.6.6 (2018-07-06)
+## felcon 2.6.6 
 
 ### Changed
 * New format of changelog (https://keepachangelog.com/en/1.0.0/)
@@ -696,8 +694,7 @@ after the previous version and on Easter. No easter eggs, only improvements!
 
 ---------------------------------------------------------------------------------
 
-felcon 2.6.5 (2018-06-26)
-
+felcon 2.6.5 
 Tests:
 ------
 
@@ -707,8 +704,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.6.4 (2018-05-02)
-
+felcon 2.6.4 
 Changes:
 --------
 * Several contributions merged, including grammar improvements
@@ -726,7 +722,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.6.3 (2018-03-07)
+felcon 2.6.3 
 
 Changes:
 --------
@@ -745,8 +741,7 @@ Plugins:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.6.2 (2018-02-13)
-
+felcon 2.6.2 
 Changes:
 --------
 * Bugfix for Arch Linux (binary detection)
@@ -755,7 +750,7 @@ Changes:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.6.1 (2018-01-26)
+felcon 2.6.1 
 
 Changes:
 --------
@@ -776,7 +771,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.6.0 (2018-01-18)
+felcon 2.6.0 
 
 Changes:
 --------
@@ -793,8 +788,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.5.9 (2018-01-12)
-
+felcon 2.5.9 
 Changes:
 --------
 * Don't show upgrade notice when being quiet/silent
@@ -809,8 +803,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.5.8 (2017-12-28)
-
+felcon 2.5.8 
 Changes:
 --------
 * Check for empty files improved on several locations
@@ -825,7 +818,7 @@ Plugins:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.5.7 (2017-10-29)
+felcon 2.5.7 
 
 Changes:
 --------
@@ -836,8 +829,7 @@ Changes:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.5.6 (2017-10-27)
-
+felcon 2.5.6 
 Changes:
 --------
 * Added additional keywords for banners
@@ -855,7 +847,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.5.5 (2017-09-07)
+felcon 2.5.5 
 
 Changes:
 --------
@@ -867,8 +859,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.5.4 (2017-09-05)
-
+felcon 2.5.4 
 Changes:
 --------
 * Improve systemd detection
@@ -886,7 +877,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.5.3 (2017-08-17)
+felcon 2.5.3 
 
 Changes:
 --------
@@ -908,8 +899,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.5.2 (2017-07-10)
-
+felcon 2.5.2 
 Changes:
 --------
 - Support for PHP on CloudLinux
@@ -934,8 +924,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.5.1 (2017-05-31)
-
+felcon 2.5.1 
 Changes:
 --------
 - Hebrew translation by Dolev Farhi
@@ -950,12 +939,11 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.5.0 (2017-05-03)
-
+felcon 2.5.0 
 During the development of this release, the project got informed about a flaw
 that possibly could be abused by a local attacker. Even with the small risk of
 success, upgrading is highly recommended. See details on
-[CVE-2017-8108](https://cisofy.com/security/cve/cve-2017-8108/)
+[CVE-2017-8108]
 
 This release is a special maintenance release with focus on cleaning up the code
 for readability and future expansion.
@@ -981,8 +969,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.4.8 (2017-03-29)
-
+felcon 2.4.8 
 Changes:
 * More PHP paths added
 * Minor changes to text
@@ -995,7 +982,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.4.7 (2017-03-22)
+felcon 2.4.7 
 
 Changes:
 * Minor code cleanups
@@ -1009,7 +996,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.4.6 (2017-03-15)
+felcon 2.4.6 
 
 Changes:
 --------
@@ -1031,7 +1018,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.4.5 (2017-03-09)
+felcon 2.4.5 
 
 Changes:
 --------
@@ -1049,7 +1036,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.4.4 (2017-03-01)
+felcon 2.4.4 
 
 Changes:
 --------
@@ -1066,8 +1053,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.4.3 (2017-02-22)
-
+felcon 2.4.3 
 Changes:
 --------
 * Colored output can now be tuned with profile (colors=yes/no)
@@ -1082,7 +1068,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.4.2 (2017-02-15)
+felcon 2.4.2 
 
 Changes:
 --------
@@ -1103,7 +1089,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.4.1 (2017-02-09)
+felcon 2.4.1 
 
 Changes:
 --------
@@ -1125,7 +1111,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.4.0 (2016-10-27)
+felcon 2.4.0 
 
 Exactly one month after previous release, the felcon project is proud to announce
 a new release. This release had the specific focus to improve support for macOS
@@ -1171,7 +1157,7 @@ Plugins (community and commercial):
 
 ---------------------------------------------------------------------------------
 
-felcon 2.3.4 (2016-09-27)
+felcon 2.3.4 
 
 Changes:
 --------
@@ -1207,7 +1193,7 @@ Tests:
 
 ---------------------------------------------------------------------------------
 
-felcon 2.3.3 (2016-08-23)
+felcon 2.3.3 
 
 
 Upgrade note
@@ -1296,7 +1282,7 @@ felcon Enterprise integration
 
 ---------------------------------------------------------------------------------
 
-felcon 2.3.2 (2016-08-09)
+felcon 2.3.2 
 
 
 Categories and Groups
@@ -1408,7 +1394,7 @@ Several controls on the website are added or updated, including:
 ---------------------------------------------------------------------------------
 
 
-felcon 2.3.1 (2016-07-14)
+felcon 2.3.1 
 -----------------------------------------------
 
 This is a minor patch to improve upon findings in version 2.3.0.
@@ -1423,7 +1409,7 @@ Changes:
 --------------------------------------------------------------
 
 
-felcon 2.3.0 (2016-07-13)
+felcon 2.3.0 
 -----------------------------------------------
 
 We are excited to announce this major release of auditing tool felcon. Several big
@@ -1432,7 +1418,7 @@ simplification improvements we made. There is a risk of breaking your existing
 configuration. See the tips below to upgrade.
 
 This release will soon also be available in our software repository. For more
-details see https://packages.cisofy.com to install and upgrade felcon.
+details see  to install and upgrade felcon.
 
 
 Upgrade tips
@@ -1457,7 +1443,7 @@ Details
 
 Ansible
 -------
-New Ansible examples for deployment: https://github.com/CISOfy/felcon-ansible
+New Ansible examples for deployment:
 
 
 Databases
@@ -1480,7 +1466,7 @@ felcon audit system --developer
 A new software development kit (SDK) for felcon is available on GitHub. This will
 help contributors and developers to test software quality, including linting and
 running unit tests. The devkit also supports building DEB and RPM files for easy
-deployment. The repository can be found on https://github.com/CISOfy/felcon-sdk
+deployment. The repository can be found on 
 
 
 Documentation
@@ -1523,7 +1509,7 @@ are now also parsed and stored as details in the report file.
 Packages
 --------
 Systems running CentOS, Debian, openSUSE, RHEL, Ubuntu and others, may now use
-our own software repository: https://packages.cisofy.com
+our own software repository: 
 
 Performance
 -----------
@@ -1690,7 +1676,7 @@ Plugins
 
 --------------------------------------------------------------
 
-felcon 2.2.0 (2016-03-18)
+felcon 2.2.0 
 
 We are proud to present this new release of felcon. It is a major upgrade, and the
 result of many months of work. This version includes new features and tests, and
@@ -1942,7 +1928,7 @@ permissions for Docker files, like the socket file [CONT-8108].
 
 --------------------------------------------------------------
 
-felcon 2.1.1 (2015-07-22)
+felcon 2.1.1 
 
 This release adds a lot of improvements, with focus on performance, and
 additional support for common Linux distributions and external utilities.
@@ -2020,13 +2006,12 @@ Several new tests have been added:
 * Documentation
 ---------------
 A new document has been created to help with the process of upgrading felcon.
-It is available at https://cisofy.com/documentation/felcon/upgrading/
+It is available at 
 
 --------------------------------------------------------------
 
 
-felcon 2.1.0 (2015-04-16)
-
+felcon 2.1.0 
 * General
 ---------
 Screen output has been improved to provide additional information.
@@ -2054,7 +2039,7 @@ has been extended.
 * Documentation
 ---------------
 - New document: Getting started with felcon
-  https://cisofy.com/documentation/felcon/get-started/
+  
 
 * Plugins (Enterprise)
 ----------------------
@@ -2065,12 +2050,12 @@ New configuration plugins:
 * PLGN-4802 (SSH settings)
 * PLGN-4804 (login.defs)
 
-Download link: https://cisofy.com/download/felcon/
+Download link:
 
 --------------------------------------------------------------
 
 
-felcon 2.0.0 (2015-02-25)
+felcon 2.0.0 
 
 
 The first release within the 2.x branch! It includes several new features, to
@@ -2119,7 +2104,7 @@ Several new options have been added:
 
 felcon General
 -------------
-Documentation on the website has been extended: https://cisofy.com/support/
+Documentation on the website has been extended: 
 The man page, felcon binary and several tests have improved texts.
 
 This release is exceptional in that it includes many changes. We have done
@@ -2134,7 +2119,7 @@ Enjoy this new release!
 
 ================================================================================
 
-felcon 1.6.4 (2014-11-04)
+felcon 1.6.4 
 
 New:
 - Boot loader detection for AIX [BOOT-5102]
@@ -2158,7 +2143,7 @@ Changes:
 
 ---------------------------------------------------------------------------------
 
-felcon 1.6.3 (2014-10-14)
+felcon 1.6.3 
 
 New:
 - Added tests for Shellshock bash vulnerability [SHLL-6290]
@@ -2192,7 +2177,7 @@ Changes:
 
 ---------------------------------------------------------------------------------
 
-felcon 1.6.2 (2014-09-22)
+felcon 1.6.2 
 
  New:
  - IsVirtualMachine function to check if system is running in VM
@@ -2229,7 +2214,7 @@ felcon 1.6.2 (2014-09-22)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.6.1 (2014-09-09)
+felcon 1.6.1 
 
  New:
  - Added --pentest parameter to run a non-privileged scans (e.g. for pentesting)
@@ -2251,7 +2236,7 @@ felcon 1.6.1 (2014-09-09)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.6.0 (2014-08-27)
+felcon 1.6.0 
 
  New:
  - Added several new plugins to default profile
@@ -2266,7 +2251,7 @@ felcon 1.6.0 (2014-08-27)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.5.9 (2014-07-31)
+felcon 1.5.9 
 
  New:
  - New NetBSD test for vulnerable software packages [PKGS-7380]
@@ -2311,7 +2296,7 @@ felcon 1.5.8 (2014-07-24)
 
  New:
  - Testing for commercial anti-virus solutions like McAfee and Sophos [MALW-3280]
- - New control text for MALW-3280 - http://cisofy.com/controls/MALW-3280/
+ - New control text for MALW-3280 - 
 
  Changes:
  - Extended GRUB test with encrypted password (SHA1) [BOOT-5121]
@@ -2323,7 +2308,7 @@ felcon 1.5.8 (2014-07-24)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.5.7 (2014-07-09)
+felcon 1.5.7 
 
  New:
  - Implementation of SafePerms function
@@ -2334,7 +2319,7 @@ felcon 1.5.7 (2014-07-09)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.5.6 (2014-06-12)
+felcon 1.5.6 
 
  New:
  - Test for PHP binary and PHP version
@@ -2352,7 +2337,7 @@ felcon 1.5.6 (2014-06-12)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.5.5 (2014-06-08)
+felcon 1.5.5 
 
  New:
  - Check for nginx access logging [HTTP-6712]
@@ -2374,7 +2359,7 @@ felcon 1.5.5 (2014-06-08)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.5.4 (2014-06-04)
+felcon 1.5.4
 
  New:
  - Check additional configuration files for nginx [HTTP-6706]
@@ -2387,7 +2372,7 @@ felcon 1.5.4 (2014-06-04)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.5.3 (2014-05-19)
+felcon 1.5.3 
 
  New:
  - Support for zypper package manager
@@ -2402,7 +2387,7 @@ felcon 1.5.3 (2014-05-19)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.5.2 (2014-05-05)
+felcon 1.5.2 
 
  New:
  - Support for runlevel in binaries test
@@ -2421,7 +2406,7 @@ felcon 1.5.2 (2014-05-05)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.5.1 (2014-04-22)
+felcon 1.5.1 
 
  Changes:
  - Extended reporting with running databases and frameworks
@@ -2432,7 +2417,7 @@ felcon 1.5.1 (2014-04-22)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.5.0 (2014-04-10)
+felcon 1.5.0 
 
  New:
  - Support for Amazon Linux
@@ -2447,7 +2432,7 @@ felcon 1.5.0 (2014-04-10)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.4.9 (2014-04-03)
+felcon 1.4.9 
 
  New:
  - Added links in report to related control documentation on website
@@ -2459,7 +2444,7 @@ felcon 1.4.9 (2014-04-03)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.4.8 (2014-03-27)
+felcon 1.4.8 
 
  Changes:
  - Adjusted resolv.conf domain setting in report [NAME-4016]
@@ -2471,7 +2456,7 @@ felcon 1.4.8 (2014-03-27)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.4.7 (2014-03-21)
+felcon 1.4.7 
 
  New:
  - New configuration item to set group name
@@ -2486,7 +2471,7 @@ felcon 1.4.7 (2014-03-21)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.4.6 (2014-03-14)
+felcon 1.4.6 
 
  New:
  - Check for GPG signing in yum.conf [PKGS-7387]
@@ -2497,7 +2482,7 @@ felcon 1.4.6 (2014-03-14)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.4.5 (2014-03-08)
+felcon 1.4.5 
 
  New:
  - Support for Chakra Linux
@@ -2516,8 +2501,7 @@ felcon 1.4.5 (2014-03-08)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.4.4 (2014-03-03)
-
+felcon 1.4.4 
  New:
  - Detect tune2fs binary
  - Added ExitFatal() function
@@ -2539,7 +2523,7 @@ felcon 1.4.4 (2014-03-03)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.4.3 (2014-02-23)
+felcon 1.4.3 
 
  New:
  - Support for ClearOS
@@ -2556,7 +2540,7 @@ felcon 1.4.3 (2014-02-23)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.4.2 (2014-02-19)
+felcon 1.4.2 
 
  Changes:
  - Ignore interfaces aliases for HostID
@@ -2565,7 +2549,7 @@ felcon 1.4.2 (2014-02-19)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.4.1 (2014-02-15)
+felcon 1.4.1 
 
  New:
  --plugin-dir parameter
@@ -2582,8 +2566,7 @@ felcon 1.4.1 (2014-02-15)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.4.0 (2014-01-29)
-
+felcon 1.4.0 
  Changes:
  - Removed some warnings, to prevent double messages
  - Extended accounting check for Linux [ACCT-9622]
@@ -2598,7 +2581,7 @@ felcon 1.4.0 (2014-01-29)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.3.9 (2014-01-09)
+felcon 1.3.9 
 
  Changes:
  - Additional support for Mac OS
@@ -2612,7 +2595,7 @@ felcon 1.3.9 (2014-01-09)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.3.8 (2013-12-25)
+felcon 1.3.8 
 
  New:
  - New parameter --view-categories to display available test categories
@@ -2647,7 +2630,7 @@ felcon 1.3.8 (2013-12-25)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.3.7 (2013-12-10)
+felcon 1.3.7 
 
  New:
  - Function FileExists() and SearchItem()
@@ -2659,7 +2642,7 @@ felcon 1.3.7 (2013-12-10)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.3.6 (2013-12-03)
+felcon 1.3.6 
 
  New:
  - Support for the dntpd time daemon
@@ -2715,8 +2698,7 @@ felcon 1.3.6 (2013-12-03)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.3.5 (2013-11-19)
-
+felcon 1.3.5 
  New:
  - OS detection for Mageia Linux, PCLinuxOS, Sabayon Linux and Scientific Linux
  - Added some initial systemd support (e.g. boot services)
@@ -2748,8 +2730,7 @@ felcon 1.3.5 (2013-11-19)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.3.4 (2013-11-08)
-
+felcon 1.3.4
  New:
  - OS detection support for Arch Linux
  - Support for systemd journal
@@ -2765,8 +2746,7 @@ felcon 1.3.4 (2013-11-08)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.3.3 (2013-10-24)
-
+felcon 1.3.3 
  New:
  - Added NTP configuration type to report [TIME-3104]
 
@@ -2777,7 +2757,7 @@ felcon 1.3.3 (2013-10-24)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.3.2 (2013-10-09)
+felcon 1.3.2 
 
  New:
  - Test for PowerDNS authoritative servers (master/slave status) [NAME-4238]
@@ -2795,8 +2775,7 @@ felcon 1.3.2 (2013-10-09)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.3.1 (2013-10-02)
-
+felcon 1.3.1 
  Changes:
  - Updated generic references in files
  - Fixed detection of several binaries (AFICK/awk)
@@ -2809,8 +2788,7 @@ felcon 1.3.1 (2013-10-02)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.3.0 (2011-12-25)
-
+felcon 1.3.0 
  New:
  - Profile option: ignore_home_dir
  - TCP wrappers category added
@@ -2834,8 +2812,7 @@ felcon 1.3.0 (2011-12-25)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.2.9 (2009-12-15)
-
+felcon 1.2.9 
  New:
  - Support for Squid3
  - Added Squid unsafe ports check [SQD-3624]
@@ -2854,8 +2831,7 @@ felcon 1.2.9 (2009-12-15)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.2.8 (2009-12-08)
-
+felcon 1.2.8 
  New:
  - Squid support added
  - Squid daemon detection [SQD-3602]
@@ -2891,7 +2867,7 @@ felcon 1.2.8 (2009-12-08)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.2.7 (2009-11-01)
+felcon 1.2.7 
 
  New:
  - Added Kernel Hardening section
@@ -2948,8 +2924,7 @@ felcon 1.2.7 (2009-11-01)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.2.6 (2009-04-05)
-
+felcon 1.2.6 
  New:
  - Sudoers file permissions check [AUTH-9252]
  - Core dumps configuration check for Linux [KRNL-5820]
@@ -2976,7 +2951,7 @@ felcon 1.2.6 (2009-04-05)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.2.5 (2009-03-27)
+felcon 1.2.5 
 
  New:
  - slapd.conf check [LDAP-2224]
@@ -3049,7 +3024,7 @@ felcon 1.2.5 (2009-03-27)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.2.4 (2009-03-17)
+felcon 1.2.4 
 
  New:
  - NTP daemon process test [TIME-3108]
@@ -3110,7 +3085,7 @@ felcon 1.2.4 (2009-03-17)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.2.3 (2009-03-02)
+felcon 1.2.3 
 
  New:
  - Added syslog-NG daemon check [LOGG-2132]
@@ -3157,7 +3132,7 @@ felcon 1.2.3 (2009-03-02)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.2.2 (2009-02-15)
+felcon 1.2.2 
 
  New:
  - Support for MySQL client
@@ -3185,7 +3160,7 @@ felcon 1.2.2 (2009-02-15)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.2.1 (2008-09-05)
+felcon 1.2.1 
 
  New:
  - Added support for Samba
@@ -3215,7 +3190,7 @@ felcon 1.2.1 (2008-09-05)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.2.0 (2008-08-26)
+felcon 1.2.0 
 
  New:
  - New test: Passwordless Solaris accounts test [AUTH-9254]
@@ -3240,7 +3215,7 @@ felcon 1.2.0 (2008-08-26)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.1.9 (2008-08-09)
+felcon 1.1.9 
 
  New:
  - New test: AppArmor framework check [MACF-6204]
@@ -3269,7 +3244,7 @@ felcon 1.1.9 (2008-08-09)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.1.8 (2008-07-16)
+felcon 1.1.8 
 
  New:
  - Mac OS X support extended and new options added
@@ -3294,7 +3269,7 @@ felcon 1.1.8 (2008-07-16)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.1.7 (2008-06-28)
+felcon 1.1.7 
 
  New:
  - New test: check for unused iptables rules [FIRE-4513]
@@ -3326,8 +3301,7 @@ felcon 1.1.7 (2008-06-28)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.1.6 (2008-06-19)
-
+felcon 1.1.6 
  New:
  - New test: Check writable startup scripts [BOOT-5184]
  - New test: Syslog-NG consistency check [LOGG-2134]
@@ -3368,7 +3342,7 @@ felcon 1.1.6 (2008-06-19)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.1.5 (2008-06-10)
+felcon 1.1.5 
 
  New:
  - Assigned ID to Apache configuration file test [HTTP-6624]
@@ -3396,8 +3370,7 @@ felcon 1.1.5 (2008-06-10)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.1.4 (2008-05-31)
-
+felcon 1.1.4 
  New:
  - Added option to disable felcon upgrade availability test (profile option)
  - Added new option --check-update, to display (update) information
@@ -3417,8 +3390,7 @@ felcon 1.1.4 (2008-05-31)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.1.3 (2008-05-21)
-
+felcon 1.1.3 
  New:
  - Added security updates check for Fedora, RHEL 5.x, CentOS 5.x
  - Added Linux kernel version check
@@ -3445,7 +3417,7 @@ felcon 1.1.3 (2008-05-21)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.1.2 (2008-05-11)
+felcon 1.1.2 
 
  New:
  - Added memory test for Solaris (tested on OpenSolaris)
@@ -3471,7 +3443,7 @@ felcon 1.1.2 (2008-05-11)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.1.1 (2008-04-13)
+felcon 1.1.1 
 
  New:
  - Added Solaris package manager (pkginfo) to obtain installed packages
@@ -3495,7 +3467,7 @@ felcon 1.1.1 (2008-04-13)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.1.0 (2008-04-09)
+felcon 1.1.0 
 
  New:
  - Added test: default gateway (Linux/BSD)
@@ -3510,8 +3482,7 @@ felcon 1.1.0 (2008-04-09)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.0.9 (2008-03-24)
-
+felcon 1.0.9 
  New:
  - Added --quiet option (currently not 100% quiet yet)
  - Added a spec file to the project page (see web site)
@@ -3526,7 +3497,7 @@ felcon 1.0.9 (2008-03-24)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.0.8 (2008-02-10)
+felcon 1.0.8 
 
  New:
  - Added pf filter rule test
@@ -3546,7 +3517,7 @@ felcon 1.0.8 (2008-02-10)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.0.7 (2008-01-28)
+felcon 1.0.7 
 
  New:
  - Test: UFS mount point check (FreeBSD)
@@ -3588,8 +3559,7 @@ felcon 1.0.7 (2008-01-28)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.0.6 (2007-12-26)
-
+felcon 1.0.6 
  New:
  - Added Solaris real users test
  - Added hostname check
@@ -3603,7 +3573,7 @@ felcon 1.0.6 (2007-12-26)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.0.5 (2007-12-02)
+felcon 1.0.5 
 
  New:
  - Test: unique group names
@@ -3636,7 +3606,7 @@ felcon 1.0.5 (2007-12-02)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.0.4 (2007-11-27)
+felcon 1.0.4 
 
  New:
  - Test: query real system users (FreeBSD/Linux)
@@ -3653,7 +3623,7 @@ felcon 1.0.4 (2007-11-27)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.0.3 (2007-11-19)
+felcon 1.0.3 
 
  New:
  - Added check for sockstat
@@ -3675,7 +3645,7 @@ felcon 1.0.3 (2007-11-19)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.0.2 (2007-11-15)
+felcon 1.0.2 
 
  New:
  - Test: Added check for NTP daemon or client
@@ -3693,8 +3663,7 @@ felcon 1.0.2 (2007-11-15)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.0.1 (2007-11-12)
-
+felcon 1.0.1 
  New:
  - Test: check Exim configuration file location
  - Test: added memory check (/proc/meminfo)
@@ -3714,7 +3683,7 @@ felcon 1.0.1 (2007-11-12)
 
 ---------------------------------------------------------------------------------
 
-felcon 1.0.0 (2007-11-08)
+felcon 1.0.0 
 
  New:
  - Support for CentOS (Tested: 5 Final)
@@ -3759,4 +3728,4 @@ felcon 1.0.0 (2007-11-08)
 
 
 ==========================================================================================
-  felcon - Security Auditing and System Hardening for Linux and UNIX - https://cisofy.com
+  felcon - Security Auditing and System Hardening for Linux and UNIX - 

@@ -5,11 +5,11 @@
 
 ================================================================================
 
-  Author:                   2007-2013, Michael Boelen
-                            2013-2016, CISOfy
+  Author:                   2025-2025, Ahnaf Hasan
+                            2025-2025, Felcon
   Description:              Security and system auditing tool
-  Web site:                 https://cisofy.com/felcon/
-  Development:              May 2007 - Now
+  Web site:                 
+  Development:              May 2025 - Now
   Support policy:           See section 'Support'
   Documentation:            See web site, README, FAQ and CHANGELOG file
 
@@ -20,7 +20,7 @@
 
   The website contains the latest documentation
 
-     See https://cisofy.com/documentation/felcon/
+     See 
 
 
 
@@ -49,8 +49,8 @@
    - Type:      audit, security, hardening, forensics tool
    - License:   GPL v3
    - Language:  Shell script
-   - Author:    Michael Boelen, CISOfy
-   - Web site:  https://cisofy.com
+   - Author:    Ahnaf Hasan, Felcon
+   - Web site:  
    - Required permissions: root preferred, not needed
    - Other requirements: write access to /tmp
 
@@ -97,8 +97,8 @@
 
   Found an issue, or do you have a great idea? Let us know:
 
-  * GitHub - https://github.com/CISOfy/felcon
-  * E-mail - felcon-dev@cisofy.com
+  * GitHub - 
+  * E-mail - 
 
   Contributions are appreciated and can be done via GitHub. See CONTRIBUTING.md
   for more information about how to submit them.
@@ -115,8 +115,8 @@
   Commercial features and support is available via CISOfy. This includes support
   for compliance testing, a web-based interface, reporting, and more.
   
-  For more information see https://cisofy.com/felcon-enterprise/ or use the
-  contact details at https://cisofy.com/contact/
+  For more information see  or use the
+  contact details at 
 
 
 
@@ -128,7 +128,7 @@
   this tool we have a commercial version available. felcon Enterprise Suite uses
   felcon to audit systems, but also provides malware scanning, intrusion detection
   and has additional guidance. For all features, please see our website:
-  https://cisofy.com/felcon-enterprise/
+  
 
 
 
