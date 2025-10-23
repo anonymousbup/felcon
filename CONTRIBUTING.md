@@ -57,7 +57,7 @@ to this repository, you agree that you:
 
 4. Allow the project the [Unlimited Rights] to your contribution
 
-If you have questions regarding development, send us an e-mail at [felcon-dev].
+If you have questions regarding development, send us an e-mail at 
 
 
 ## Unlimited Rights

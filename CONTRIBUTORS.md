@@ -12,7 +12,7 @@ The felcon project is very thankful to the individuals who contributed to the pr
   - Share missing results and findings
   - Check for grammar issues
 
-  See [CONTRIBUTING.md](https://github.com/CISOfy/felcon/blob/master/CONTRIBUTING.md) for more details.
+  See [] for more details.
 
 ==========================================================================================
 

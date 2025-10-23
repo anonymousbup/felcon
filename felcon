@@ -38,7 +38,7 @@
 #
     # Program information
     PROGRAM_NAME="felcon"
-    PROGRAM_AUTHOR="CISOfy"
+    PROGRAM_AUTHOR=""
     PROGRAM_AUTHOR_CONTACT=""
     PROGRAM_WEBSITE=""
 
@@ -49,10 +49,8 @@
     PROGRAM_VERSION="3.1.6"
 
     # Source, documentation and license
-    PROGRAM_SOURCE="https://github.com/CISOfy/felcon"
-    PROGRAM_PACKAGE="https://packages.cisofy.com/"
-    PROGRAM_DOCUMENTATION="https://cisofy.com/docs/"
-    PROGRAM_COPYRIGHT="2007-2025, ${PROGRAM_AUTHOR} - ${PROGRAM_WEBSITE}"
+   
+    PROGRAM_COPYRIGHT="2025-2025, ${PROGRAM_AUTHOR} - ${PROGRAM_WEBSITE}"
     PROGRAM_LICENSE="${PROGRAM_NAME} comes with ABSOLUTELY NO WARRANTY. This is free software, and you are
   welcome to redistribute it under the terms of the GNU General Public License.
   See the LICENSE file for details about using this software."

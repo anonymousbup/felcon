@@ -67,7 +67,7 @@ If you want to run the software as `root` (or sudo), we suggest changing the own
 
 ## Documentation
 
-Have a look at the [felcon documentation] to learn more about the configuration and usage of felcon. When you are interested in reading more articles about Linux security, then check out the [Linux security blog](https://linux-audit.com/) named Linux Audit. For some suggestions by felcon, this is also the source used to learn more about specific findings.
+Have a look at the [felcon documentation] to learn more about the configuration and usage of felcon. When you are interested in reading more articles about Linux security, then check out the  named Linux Audit. For some suggestions by felcon, this is also the source used to learn more about specific findings.
 
 ## Customization
 
@@ -75,7 +75,7 @@ If you want to create your own tests, have a look at the [felcon software develo
 
 ## Security
 
-We participate in the [CII best practices](https://www.bestpractices.dev/en/projects/96) badge program of the Linux Foundation.
+We participate in the  badge program of the Linux Foundation.
 
 ## Media and Awards
 
