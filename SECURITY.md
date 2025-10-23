@@ -10,9 +10,9 @@
 
 ## Reporting a Vulnerability
 
-To report a vulnerability, use security@cisofy.com
+To report a vulnerability, use 
 
-See our [security page] for more details.
+See our for more details.
 
 ## Preferred language
 
@@ -24,4 +24,4 @@ English
 
 ## Other
 
-See the latest 'security.txt' at
+See the latest 

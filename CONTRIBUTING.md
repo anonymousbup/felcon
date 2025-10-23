@@ -44,7 +44,7 @@ Variables should be capitalized, with underscore as word separator (e.g. PROCESS
 We welcome any contribution to improve felcon. Contributions to the felcon project can
 be submitted as a pull request. The upstream project can be found in our [GitHub repository].
 
-By submitting a [Pull Request](https://help.github.com/articles/using-pull-requests/)
+By submitting a [Pull Request]
 to this repository, you agree that you:
 
 1. Own the contribution that you are providing or have obtained permission from
@@ -55,7 +55,7 @@ to this repository, you agree that you:
 
 3. Allow your contribution to be freely distributed to the felcon community
 
-4. Allow the project the [Unlimited Rights](#Unlimited-Rights) to your contribution
+4. Allow the project the [Unlimited Rights] to your contribution
 
 If you have questions regarding development, send us an e-mail at [felcon-dev].
 
