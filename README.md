@@ -1,18 +1,27 @@
 
 
-
-
-Do you like this software? **Star the project** and become a [stargazer]
+Do you like this? **Star the project** 
 
 ----
 
-# felcon
+# Felcon
 
-> felcon - Security auditing and hardening tool, for UNIX-based systems.
+> Felcon - Security auditing and hardening tool, for UNIX-based systems.
 
-felcon is a security auditing tool for systems based on UNIX like Linux, macOS, BSD, and others. It performs an **in-depth security scan** and runs on the system itself. The primary goal is to test security defenses and **provide tips for further system hardening**. It will also scan for general system information, vulnerable software packages, and possible configuration issues. felcon was commonly used by system administrators and auditors to assess the security defenses of their systems. Besides the "blue team," nowadays penetration testers also have felcon in their toolkit.
+felcon is an advanced security auditing and hardening tool designed for UNIX-like operating systems such as Linux, macOS, BSD, and others.
+It performs deep system-level scans, identifying vulnerabilities, weak configurations, and outdated software packages.
 
-We believe software should be **simple**, **updated on a regular basis**, and **open**. You should be able to trust, understand, and have the option to change the software. Many agree with us, as the software is being used by thousands every day to protect their systems.
+Originally developed for system administrators and security auditors, felcon is now also a popular choice among penetration testers and security professionals looking to assess and strengthen system defenses.
+
+Our philosophy is simple — software should be:
+
+Transparent: easy to understand and modify
+
+Open: freely available to the community
+
+Reliable: regularly updated and actively maintained
+
+Every day, thousands of users trust felcon to help safeguard their systems..
 
 ## Goals
 

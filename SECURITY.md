@@ -10,18 +10,17 @@
 
 ## Reporting a Vulnerability
 
-To report a vulnerability, use 
-
-See our for more details.
+ If you discover a security issue, please report it responsibly by following our official reporting process.
+You can find detailed instructions in our Security Guidelines.
 
 ## Preferred language
 
-English
+We accept reports and correspondence in English.
 
 ## Acknowledgments
 
-
+We deeply appreciate the efforts of the security community for helping us maintain a safe and reliable environment.
 
 ## Other
 
-See the latest 
+Thank you for all. Just wait for the Updated Version.

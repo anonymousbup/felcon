@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We, the contributors and maintainers of this project, are committed to creating a friendly, inclusive, and respectful community.
 
 ## Our Standards
 
@@ -40,5 +40,6 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 
 ## Attribution
 
-This Code of Conduct 
+This Code of Conduct draws inspiration from the Contributor Covenant
+, rewritten in our own words to reflect the values and voice of our community.
 
