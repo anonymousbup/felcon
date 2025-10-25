@@ -10,7 +10,7 @@
 # Web site : 
 # Blog     :  
 #
-# felcon comes with ABSOLUTELY NO WARRANTY. This is free software, and you are
+# Felcon is an automated security auditing and hardening tool for Unix based operating systems.This is free software, and you are
 # welcome to redistribute it under the terms of the GNU General Public License.
 # See LICENSE file for usage of this software.
 #
@@ -484,7 +484,7 @@ ${YELLOW}Note: ${WHITE}Cancelling the program can leave temporary files behind${
         printf "%s" "${WHITE}
   ###################################################################
   #                                                                 #
-  #   ${PURPLE}NON-PRIVILEGED SCAN MODE${WHITE}                                      #
+  #   ${PURPLE}SCAN MODE${WHITE}                                      #
   #                                                                 #
   ###################################################################
 ${NORMAL}
