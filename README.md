@@ -69,7 +69,11 @@ The very latest developments can be obtained via git.
 
 2. Execute:
 
-        cd felcon && ./felcon audit system
+        cd felcon && ls -l ./felcon
+
+3. Final Execution:
+       
+        chmod +x ./felcon && file ./felcon && ./felcon audit system
 
 If you want to run the software as `root` (or sudo), we suggest changing the ownership of the files. Use `chown -R 0:0` to recursively alter the owner and group and set it to user ID `0` (`root`). Otherwise felcon will warn you about the file permissions. After all, you are executing files owned by a non-privileged user.
 
