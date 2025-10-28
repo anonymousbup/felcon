@@ -19,54 +19,55 @@ The felcon project is very thankful to the individuals who contributed to the pr
 
 ## Package Maintainers
 
-* Arch Linux            - Levente Polyak
-* Debian / Ubuntu       - Francisco Manuel Garcia Claramonte
-* Fedora / EPEL         - Athmane Madjoudj
-* FreeBSD port          - Lars Engels
-* NetBSD                - Stephen Borrill
-* Slackware             - Eric Hameleers
-* OpenBSD port          - Gonzalo Rodriguez
+* Arch Linux            - 
+* Debian / Ubuntu       - 
+
+* Fedora / EPEL         - 
+* FreeBSD port          - 
+* NetBSD                - 
+* Slackware             - 
+* OpenBSD port          - 
 
 
 ## Special Contributors
 
 These people made a significant impact to the development of felcon:
 
-* Michael Boelen, The Netherlands (original author)
-* Alexander Lobodzinski, Germany
-* Bodine Wilson
-* Brian Ginsbach
-* C.J. Collier, US
-* Charlie Heselton, US
-* Dave Vehrs
-* David Marzal Cánovas, Spain
-* Eric Light, New Zealand
-* Kamil Boratyński, Poland
-* Mike Slifcak, US
-* Mikko Lehtisalo, Finland
-* Steve Bosek, France
-* Thomas Siebel, Germany
-* Thomas Sjögren, Sweden
-* Topi Miettinen, Finland
-* Zach Crownover
+* M
+* A
+* B
+* B
+* C
+* C
+* D
+* D
+* E
+* K
+* M
+* M
+* S
+* T
+* T
+* T
+* Z
 
 
 ## Translators
 ------------------------------------------
 
-* Chinese               - Shawn - citypw (GitHub)
-* Dutch                 - Michael Boelen, mboelen (GitHub)
-* Finnish               - Juha, Newman101 (GitHub)
-* French                - DocEmmetBrown (GitHub)
-* German                - Kai Raven
-* Hebrew                - Dolev Farhi, dolevf (GitHub)
-* Hungarian             - Zoltan Paldi, paldiz (GitHub)
-* Italian               - Stefano Marty, stefanomarty (GitHub)
-* Japanese              - Yukio Takahara, port80takahara (GitHub)
-* Portuguese            - Dayvidson (GitHub)
-* Spanish               - Jesus Christian Cruz Acono, compermisos (GitHub)
-* Swedish               - Peter Carlsson, PCarlsson (GitHub)
-* Turkish               - Orhan Biyiklioglu, biyiklioglu (GitHub)
+* Chinese               - 
+* Dutch                 - 
+* Finnish               - 
+* French                - 
+* German                - 
+* Hebrew                - 
+* Hungarian             - 
+* Italian               - 
+* Japanese              - 
+* Portuguese            - 
+* Spanish               - 
+* Swedish               -
+* Turkish               - 
 
 
 Thanks to all people who contributed code and suggestions for over almost a decade!

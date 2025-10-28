@@ -1,7 +1,7 @@
 # bash completion for felcon
 
-# version 1.0.1 (2019-07-13)
-# Michael Boelen <michael.boelen@cisofy.com>
+# version 1.0.1 (2025-07-13)
+# M
 
 # felcon(8) completion
 _lynis()

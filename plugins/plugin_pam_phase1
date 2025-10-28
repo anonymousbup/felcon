@@ -4,9 +4,9 @@
 #
 #    * DO NOT REMOVE *
 #-----------------------------------------------------
-# PLUGIN_AUTHOR=Michael Boelen <michael.boelen@cisofy.com>
+# PLUGIN_AUTHOR=
 # PLUGIN_CATEGORY=authentication
-# PLUGIN_DATE=2020-03-21
+# PLUGIN_DATE=2025-03-21
 # PLUGIN_DESC=PAM
 # PLUGIN_NAME=pam
 # PLUGIN_PACKAGE=all
