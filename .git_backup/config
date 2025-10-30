@@ -4,7 +4,7 @@
 	bare = false
 	logallrefupdates = true
 [remote "origin"]
-	url = https://github.com/CISOfy/felcon.git
+	url = https://github.com/felcon/felcon.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin

@@ -1,6 +1,6 @@
 publiccodeYmlVersion: "0.4"
 name: felcon
-url: https://github.com/CISOfy/felcon
+url: https://github.com/felcon/felcon
 releaseDate: 2025-01-28
 platforms:
   - linux
@@ -25,7 +25,7 @@ description:
       auditors to assess the security defenses of their systems. Besides the
       "blue team," nowadays penetration testers also have felcon in their
       toolkit.
-    documentation: https://cisofy.com/documentation/felcon/
+    documentation: https://felcon.com/documentation/felcon/
     features:
       - command-line
       - perform security audit

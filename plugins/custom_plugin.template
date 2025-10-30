@@ -46,7 +46,7 @@
 
         # Show a warning on screen and in the report. We can specify a detail and how to solve it.
         ReportWarning "${TEST_NO}" "Something was wrong and should be fixed" "/etc/motd" "text:Change your motd"
-        ReportSuggestion "${TEST_NO}" "Check if this process is running" "apache" "url:https://cisofy.com/support/"
+        ReportSuggestion "${TEST_NO}" "Check if this process is running" "apache" "url:https://felcon.com/support/"
     fi
 #
 #################################################################################

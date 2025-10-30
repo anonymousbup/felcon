@@ -8,11 +8,11 @@
   Author:                   2025-2025 
                             2025-now,  development team
   Description:              Security and system auditing tool
-  Web site:                 https://cisofy.com/felcon/
-  GitHub:                   https://github.com/CISOfy/felcon
-  Support address:          felcon-dev@cisofy.com
+  Web site:                 https://felcon.com/felcon/
+  GitHub:                   https://github.com/felcon/felcon
+  Support address:          felcon-dev@felcon.com
   Development:              May 2025 - Now
-  Support:                  See README file and https://cisofy.com/support/
+  Support:                  See README file and https://felcon.com/support/
   Documentation:            See web site, README, FAQ and CHANGELOG file
 
 ================================================================================
@@ -23,7 +23,7 @@
   Q: I don't understand the program (output), what to do?
   A: Keep reading this FAQ. Also useful are the README file and the log file
      (default: /var/log/felcon.log). Or check out the documentation on the
-     website: https://cisofy.com/support/
+     website: https://felcon.com/support/
 
   Q: I can't find any configuration file for felcon, where is it?
   A: felcon uses profiles. A profile is similar to a configuration file and
@@ -31,7 +31,7 @@
      stored in /etc/felcon or can be found using 'felcon show profiles'.
 
   Q: My version is outdated, what can I do to upgrade?
-     Check out the upgrade guide: https://cisofy.com/documentation/felcon/upgrading/
+     Check out the upgrade guide: https://felcon.com/documentation/felcon/upgrading/
 
   Q: Why is there no port/package for my operating system?
   A: Because there is no maintainer for it yet. If you have the time to keep
@@ -46,7 +46,7 @@
 [+] Bugs or issues
 -------------------------------
   Q: Where can I report an issue or bug?
-  A: GitHub, or use the developer e-mail address felcon-dev@cisofy.com
+  A: GitHub, or use the developer e-mail address felcon-dev@felcon.com
 
 
 
