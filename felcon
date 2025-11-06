@@ -46,12 +46,12 @@
     PROGRAM_RELEASE_DATE="2025-07-29"
     PROGRAM_RELEASE_TIMESTAMP=1753773496
     PROGRAM_RELEASE_TYPE="pre-release" # pre-release or release
-    PROGRAM_VERSION="3.1.6"
+    PROGRAM_VERSION="2025"
 
     # Source, documentation and license
    
-    PROGRAM_COPYRIGHT="2025-2025, ${PROGRAM_AUTHOR} - ${PROGRAM_WEBSITE}"
-    PROGRAM_LICENSE="${PROGRAM_NAME} comes with ABSOLUTELY NO WARRANTY. This is free software, and you are
+    PROGRAM_COPYRIGHT=" Developed by Ahnaf Tahmid Hasan 2025-2025, ${PROGRAM_AUTHOR} - ${PROGRAM_WEBSITE}"
+    PROGRAM_LICENSE="${PROGRAM_NAME}  its free software, and you are
   welcome to redistribute it under the terms of the GNU General Public License.
   See the LICENSE file for details about using this software."
     PROGRAM_EXTRAINFO="Enterprise support available (compliance, plugins, interface and tools)"
