@@ -38,7 +38,7 @@
 #
     # Program information
     PROGRAM_NAME="felcon"
-    PROGRAM_AUTHOR=""
+    PROGRAM_AUTHOR="Ahnaf"
     PROGRAM_AUTHOR_CONTACT=""
     PROGRAM_WEBSITE=""
 
@@ -555,7 +555,7 @@ ${NORMAL}
     CDATE=$(date "+%F %H:%M:%S")
     Report "report_datetime_start=${CDATE}"
     Report "auditor=${AUDITORNAME}"
-    Report "lynis_version=${PROGRAM_VERSION}"
+    Report "felcon_version=${PROGRAM_VERSION}"
     Report "os=${OS}"
     Report "os_name=${OS_NAME}"
     Report "os_fullname=${OS_FULLNAME}"
@@ -596,7 +596,7 @@ ${NORMAL}
         Display --indent 2 --text "- Detecting language and localization" --result "${LANGUAGE}" --color WHITE
         if [ ! -f ${DBDIR}/languages/${LANGUAGE} ]; then
             Display --indent 4 --text "${YELLOW}Notice:${NORMAL} no language file found for '${LANGUAGE}' (tried: ${DBDIR}/languages/${LANGUAGE})"
-            if IsDeveloperVersion; then Display --indent 4 --text "See https://github.com/CISOfy/felcon-sdk/blob/master/documentation/10-translations.md for more details to help translate felcon"; fi
+            if IsDeveloperVersion; then Display --indent 4 --text "See https://github.com/felcon/felcon-sdk/blob/master/documentation/10-translations.md for more details to help translate felcon"; fi
             sleep 5
         else
             if SafeFile "${DBDIR}/languages/${LANGUAGE}"; then
@@ -610,7 +610,7 @@ ${NORMAL}
                         Display --indent 4 --text "Translation file (db/languages/${LANGUAGE}) needs an update" --result "OUTDATED" --color RED
                         Display --indent 4 --text "======================================================================="
                         Display --indent 4 --text "Help other users and translate the missing lines:"
-                        Display --indent 4 --text "1) Go to: https://github.com/CISOfy/felcon/edit/master/db/languages/${LANGUAGE}"
+                        Display --indent 4 --text "1) Go to: https://github.com/felcon/felcon/edit/master/db/languages/${LANGUAGE}"
                         Display --indent 4 --text "2) Translate (some of) the lines starting with a hash (#) and remove the leading hash"
                         Display --indent 4 --text "3) Commit the changes"
                         Display --indent 4 --text "Thank you!"
@@ -826,9 +826,9 @@ ${NORMAL}
             echo ""
             echo "        Download locations:"
             echo ""
-            echo "        Packages (DEB/RPM) -  https://packages.cisofy.com/"
-            echo "        Website (TAR)      -  https://cisofy.com/downloads/"
-            echo "        GitHub             -  https://github.com/CISOfy/felcon"
+            echo "        Packages (DEB/RPM) -  https://packages.felcon.com/"
+            echo "        Website (TAR)      -  https://felcon.com/downloads/"
+            echo "        GitHub             -  https://github.com/felcon/felcon"
             echo ""
             echo "      ==============================================================================="
             echo ""

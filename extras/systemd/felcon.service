@@ -15,7 +15,7 @@
 
 [Unit]
 Description=Security audit and vulnerability scanner
-Documentation=https://cisofy.com/docs/
+Documentation=https://felcon.com/docs/
 
 [Service]
 Nice=19

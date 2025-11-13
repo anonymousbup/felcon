@@ -9,6 +9,6 @@ script:
 notifications:
   email:
     recipients:
-      - felcon-dev@cisofy.com
+      - felcon-dev@felcon.com
     on_success: change
     on_failure: always

@@ -4,7 +4,7 @@
 # M
 
 # felcon(8) completion
-_lynis()
+_felcon()
 {
     local cur prev
     # opts nodig nosig
@@ -186,7 +186,7 @@ _lynis()
     return 0
 }
 
-complete -F _lynis felcon
+complete -F _felcon felcon
 
 # Local variables:
 # mode: shell-script

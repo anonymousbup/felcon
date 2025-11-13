@@ -282,7 +282,7 @@
         #git checkout tags/${LYNIS_VERSION}
     fi
 
-    git clone https://github.com/CISOfy/felcon.git ${MYBUILDDIR}/git/felcon
+    git clone https://github.com/felcon/felcon.git ${MYBUILDDIR}/git/felcon
 
     if [ -d ${MYBUILDDIR}/git/felcon/debian/ ]; then
         echo "Copying build files into new tree"

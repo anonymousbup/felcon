@@ -4,7 +4,7 @@
 # -----------------
 #
 # This is a dummy file now. If you like to install the latest version as a
-# package, have a look at https://packages.cisofy.com
+# package, have a look at https://packages.felcon.com
 #
 # Manual builds
 # -------------
@@ -14,8 +14,8 @@
 #
 # mkdir -p /home/myuser/felcon
 # cd /home/myuser/felcon
-# git clone https://github.com/CISOfy/felcon
-# git clone https://github.com/CISOfy/felcon-sdk/
+# git clone https://github.com/felcon/felcon
+# git clone https://github.com/felcon/felcon-sdk/
 # cd felcon-sdk
 # ./felcon-sdk build rpm
 #
